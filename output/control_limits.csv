@@ -1,0 +1,5 @@
+furnace_id,frit_code,n_baseline,center_line,sigma,lcl_individual,ucl_individual,lcl_mean5,ucl_mean5
+Furnace-A,FR-A101,40,57.428,0.473,56.010,58.846,56.794,58.062
+Furnace-B,FR-B205,40,60.950,0.425,59.674,62.227,60.379,61.521
+Furnace-C,FR-C310,40,52.042,0.422,50.775,53.309,51.475,52.609
+Furnace-D,FR-D412,40,64.591,0.614,62.749,66.432,63.767,65.414
